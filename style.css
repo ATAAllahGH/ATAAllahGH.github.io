@@ -1,0 +1,145 @@
+body{
+	margin: 0px; direction: rtl;
+	background-color: #e3e3e3;
+}
+#page{
+	position: absolute; padding-bottom:200px;
+	top: 0px; height: auto;
+	right: 0px; left: 0px;	width: auto;
+}
+
+
+#menubar{
+	position: relative;
+	margin-top: 0px; right: 0px; height: 58px; width: 100%;
+	background-color: #282828; box-shadow: 0px 0px 25px #111;
+	z-index: 1;
+}
+
+
+#banner{
+	position:relative; 
+	margin-top: 0px; margin-right: 0px; height: 280px; width: 100%;
+	z-index: 0; 
+}
+.full{
+	position: absolute;
+	top: 0px; right: 0px; height: 100%; width: 100%; 
+}
+#bannertitle{
+	position: absolute;
+	top: 52%; right: 7%; padding: 13px; height: auto; width: 22%; text-align: justify; 
+}
+
+#newsbox{
+	position: relative; float: right; padding-bottom: 90px;
+	margin-top: 0px; margin-right: 5%; height: auto; width: 60%;
+}
+#sidebar{
+	position: relative; float: right; margin-top: 55px; margin-right: 5%; width: 25%; height: 700px; 
+	background-color: #e9e9e9; box-shadow: 0px 0px 8px #666; overflow: hidden;
+}
+.side{
+	position: relative; right: 4%; margin-top: 3.3px; width: 92%; height: 60px; padding-left: 0.3px;
+}
+.titles{
+	color: #BAD14E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-weight: 900; font-size: 30.2px; text-shadow: 0px 0px 9px #666;
+}
+#picbox{
+	position: relative; margin-top: 50px; margin-right: 10%; height: 500px; width: 80%; background-color: white; box-shadow: 0px 0px 9px #333; 
+	overflow: hidden;
+}
+#picboxinside{
+	position: absolute; top: 0px; right: 0px; height: 500px; width: 300%; overflow: hidden;
+}
+.buttonright{
+	position: absolute; top:46%; right: 15px; height: 50px; width: 50px; background-color: brown; border-radius: 25px; box-shadow: 0px 0px 9px #333;
+}
+.buttonleft{
+	position: absolute; top:46%; left: 15px; height: 50px; width: 50px; background-color: brown; border-radius: 25px; box-shadow: 0px 0px 9px #333;
+}
+.picsofbox{
+	position: relative; float: right; margin-top: 0px; margin-right: 0px; height: 500px; width: 33.333%;
+}
+
+#blocks{
+	position: relative; float: right;
+	margin-top: 0px; margin-right: 0px;
+	height: 100%; width: 12%; 
+}
+#sidebarbar{
+	position: relative; margin-top: 0px; right: 0px; left: 0px; width: auto; height: 67px;
+	background-color: #282828; box-shadow: 0px 0px 25px #111;
+}
+#ata{
+	position: absolute; top:0px; right:0px; height:100%; width:100%; display:none; background-color:#E3E3E3; 
+}
+.blockstext{
+	position: absolute; top: 0px; width: 100%; height: 100%; right: 0px;
+	color: #fff; font-size: 24px; font-weight: 900; text-align: center; line-height: 60px;
+	text-shadow: 0px 0px 9px #000;
+}
+.blockstextside{
+	position: absolute; top: 0px; width: 100%; height: 100%; right: 0px;
+	color: brown; font-size: 24px; font-weight: 900; line-height: 60px;
+	text-shadow: 0px 0px 9px #000; padding: 0.3px; overflow: hidden;
+}
+.newsitems{
+	position: relative; float: right;
+	margin-top: 55px; margin-right: 8%;
+	height: 300px; width: 22.6666%;
+	background-color: #fff; 
+	box-shadow: 0px 0px 7px #777;
+	overflow: hidden;
+}
+.newspic{
+	position: absolute;
+	top: 0px; right: 0px; width: 100%; height: 65%;
+	box-shadow: 0px 1px 4px #999;
+}
+.newstitles{
+	position: absolute;
+	top: 65%; right: 0px; left: 0px; width: auto; height: auto;
+	color: #000; font-size:30px; font-weight: 700;
+	text-align: justify; padding: 20px;
+}
+.newstext{
+	
+}
+#bottom{
+	position: absolute;
+	bottom: 0px; right: 0px; height: 100px; width: 100%;
+	background-color: #282828; box-shadow: 0px -2px 9px #333;
+}
+.bottomtext{
+	position: absolute;
+	right: 20px; top: 30px; 
+	color: white; font-weight: 900;
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
